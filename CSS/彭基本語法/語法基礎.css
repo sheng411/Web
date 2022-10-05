@@ -1,0 +1,18 @@
+
+屬性名稱:屬性內容
+
+設定文字粗細 大小
+
+粗/細
+font-weight:bold
+font-weight:normal
+
+大小
+font-size:16px
+font-size:30px
+
+可同時設定[加;即可](e.g.設定粗體藍色)
+font-weight:bold;color:blue
+
+基本使用
+<h3 style="Css樣式">標題</h3>
